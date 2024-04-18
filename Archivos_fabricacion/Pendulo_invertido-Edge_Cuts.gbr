@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
+%TF.CreationDate,2024-04-18T13:26:18+02:00*%
+%TF.ProjectId,Pendulo_invertido,50656e64-756c-46f5-9f69-6e7665727469,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7) date 2024-04-18 13:26:18*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X104648000Y-60960000D02*
+X213360000Y-60960000D01*
+X213360000Y-149860000D01*
+X104648000Y-149860000D01*
+X104648000Y-60960000D01*
+M02*
